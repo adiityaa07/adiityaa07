@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya
 
-<!--
-**adiityaa07/adiityaa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student (CSBS)  
+🐍 Learning Python — completed 13 days of CodeWithHarry  
+💻 Exploring coding, version control, and real-world projects  
+📈 Building my GitHub portfolio step-by-step  
 
-Here are some ideas to get you started:
+## 🔧 What I'm working on
+- Python basics and small projects
+- GitHub and version control
+- Practicing regularly and learning new tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 My Projects
+
+- 🐍 [Python Practice Repository](https://github.com/adiityaa07/python-practice) – All my beginner-level Python code
+
+---
+
+> 📌 *“Learning to code one step at a time.”*
+
